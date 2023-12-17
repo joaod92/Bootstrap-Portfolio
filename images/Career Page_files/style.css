@@ -1,0 +1,94 @@
+/* Reset some default styles and add global styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Navigation Bar styles */
+.navbar {
+    background-color: #597dcc !important; /* Set the background color */
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between; /* Align items with space in between */
+    padding: 1rem;
+  }
+  
+  .navbar-brand, .navbar-nav a {
+    color: #000000; /* Set text color */
+  }
+  
+  .navbar-brand {
+    font-size: 1.7rem; /* Adjust font size for the brand */
+  }
+
+.Project1,
+.Project2,
+.Project3,
+.Project4 {
+    padding: 10px;
+    margin: -15px 50px;
+}
+
+.Project1 .Work-Image1,
+.Project2 .Work-Image2,
+.Project3 .Work-Image3,
+.Project4 .Work-Image4 {
+    height: 100px;
+    object-fit: cover;
+    width: 100%
+}
+
+.work {
+    max-width: 100%;
+    margin: 0; /* Center the content horizontally */
+    border: 1px;
+}
+
+.work .work-title {
+    max-width: 100%;
+    margin: 0px 0 0 30px;
+    font-weight: bold;
+}
+
+/* Separator */
+.section-separator {
+    border: 1px solid #9c9c9c; /* Set the color of the separator */
+    margin: 20px 0; /* Adjust the margin as needed */
+}
+
+
+/* Skills Section styles */
+.skills {
+    max-width: 100%;
+    margin: 30px;
+}
+
+.skills .card-title {
+    font-weight: bold;
+    margin-bottom: 10px; /* Adjust the margin as needed */
+}
+
+.col-sm-6 .card-title {
+    font-weight: bold;
+}
+
+/* About/Contact Section styles */
+.row {
+    margin-top: 20px; /* Add margin between rows */
+    margin-bottom: 20px;
+}
+
+/* Footer styles */
+.card-footer {
+    background-color: white; /* Set background color */
+}
+
+.card-text {
+    color: #000000; /* Set text color */
+}
