@@ -2,7 +2,9 @@
 
 Second iteration of my own Portfolio webpage with all the learning thus far from the front-end web development bootcamp. This webpage contains placeholders for future projects in this bootcamp, contains some information about myself and my contact details and mentions the skills I'd like to gain throughout this bootcamp. 
 
-The website can be viewed here: https://joaod92.github.io/.../ 
+The website can be viewed here: (https://joaod92.github.io/Bootstrap-Portfolio)
+
+<img src="./images/screenshot.jpg">
 
 ## Installation
 No Installation required for this project. Please run the index.html file on your preffered browser of choice, in any device. 
